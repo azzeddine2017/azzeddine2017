@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Azzeddine Remmal
 #### I am a free programmer
-![I am a free programmer](https://pbs.twimg.com/profile_banners/2312748761/1593253218/1500x500)
+
 
 **************************
 
