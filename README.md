@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is Azzeddine Remmal
+### Hi there 👋, my name is Azzeddine
 #### I am a free programmer
 
 
